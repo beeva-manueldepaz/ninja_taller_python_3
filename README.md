@@ -9,5 +9,6 @@ Material avanzado de desarrollo en Python
 * Ejecuciones inline
 * Decoradores
 * M?todos M?gicos
+* Nomenclaturas de atributos privados y protegidos
 
 2017
